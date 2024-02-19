@@ -1,9 +1,11 @@
-.container{
+
+
+.container-header {
 
     width: 100%;
     height: 200px;
     background-image: url(../img/pattern.png);
-    background-color: blue;
+    background-color: #00BFFF;
 }
 
 h4 {
@@ -11,10 +13,48 @@ h4 {
     font-size: 20px;
 }
 
-.Sub-title-blue{
+.Sub-title-blue {
     color: rgb(57, 181, 181);
 }
 
-.highlighter{
+.highlighter {
     background-color: yellow;
 }
+
+ul {
+
+    list-style-position: inside;
+    padding-left: 0;
+}
+table{
+    width:100% ;
+    border-spacing: 0;
+
+}
+th{
+
+    
+    background-color: #1E90FF;
+    width: 25%;
+    text-align: left;
+}
+
+.th2{
+    width: 50%;
+    text-align: left;
+}
+
+.th-background1 {
+    height: 70px;
+    background-color:	#87CEFA ;
+}
+
+.th-background2 {
+    background-color: white;
+}
+
+.lorem-th {
+    color: white;
+}
+
+
