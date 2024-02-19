@@ -5,3 +5,12 @@
     background-image: url(../img/pattern.png);
     background-color: blue;
 }
+
+h4 {
+    color: lightgray;
+    font-size: 20px;
+}
+
+.Sub-title-blue{
+    color: rgb(57, 181, 181);
+}
